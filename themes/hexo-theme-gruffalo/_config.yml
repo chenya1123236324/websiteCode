@@ -17,22 +17,22 @@ menu:
   tags:
     text: 标签
     url: /tags
-#  th-list:
-#    text: 分类
-#    url: /categories
+  th-list:
+    text: 分类
+    url: /categories
   npms:
       text: NPM
       url: /npms
-  #weibo:
-    #text: 微博
-    #url: https://www.weibo.com/u/5934126720
-    #target: _blank
+  weibo:
+    text: 微博
+    url: https://www.weibo.com/u/5934126720
+    target: _blank
   github:
       url: https://github.com/dearzoe
       target: _blank
-  #link:
-    #text: 测试
-    #url: /custom
+  link:
+    text: 测试
+    url: /custom
 
 # 你的头像url
 avatar: http://dearzoe.coding.me/blogImg/images/gruffalo.jpg
@@ -174,5 +174,5 @@ cdn: false
 # 设置为 true 将使用 lightbox render 图片
 lightbox: true
 
-# icp备案号  ICP_license: 京ICP备1234556号-1
-ICP_license: 京ICP备1234556号-1
+# icp备案号  ICP_license: 皖ICP备18000525号-1
+ICP_license: 皖ICP备18000525号-1
