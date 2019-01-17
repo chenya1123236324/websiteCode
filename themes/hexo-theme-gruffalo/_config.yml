@@ -35,7 +35,7 @@ menu:
     url: /custom
 
 # 你的头像url
-avatar: http://dearzoe.coding.me/blogImg/images/gruffalo.jpg
+avatar: /img/gruffalo.jpg
 # avatar link
 avatar_link: /
 # 头像背景图
@@ -155,7 +155,7 @@ canonical: false
 since_year: 2015
 
 # 用户页面中作者相关的描述性文字，如不需要设为 false
-about: false
+about: true
 
 # “不蒜子”访问量统计，详见 http://ibruce.info/2015/04/04/busuanzi/
 visit_counter:

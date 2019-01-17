@@ -8,7 +8,8 @@
   margin-left: -340px;
   padding: 141px 500px 0px 1200px;
   color: #fff;
-  background: url("http://dearzoe.coding.me/blogImg/images/hero-bg.png");
+  /*background: url("http://dearzoe.coding.me/blogImg/images/hero-bg.png");*/
+    background: url('../img/hero-bg.png');
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
   overflow: hidden;
 }
@@ -46,7 +47,8 @@
   color: #ff7783;
 }
 .content-header .container.fade-scale {
-  background: url("http://dearzoe.coding.me/blogImg/images/sign-gruffalo-scroll.png") no-repeat;
+  /*background: url("http://dearzoe.coding.me/blogImg/images/sign-gruffalo-scroll.png") no-repeat;*/
+    background: url('../img/hero-bg.png') no-repeat;
   z-index: 10;
   width: 300px;
   height: 400px;
@@ -56,7 +58,8 @@
   right: 0%;
 }
 .content-header .grass {
-  background: url("http://dearzoe.coding.me/blogImg/images/hero-bg-foreground.png");
+  /*background: url("http://dearzoe.coding.me/blogImg/images/hero-bg-foreground.png");*/
+    background: url('../img/hero-bg-foreground.png');
   position: absolute;
   width: 100%;
   height: 80%;
@@ -65,7 +68,8 @@
   margin: 0;
 }
 .night-mode .content-header {
-  background: url("http://dearzoe.coding.me/blogImg/images/hero-bg-moon.jpg");
+  /*background: url("http://dearzoe.coding.me/blogImg/images/hero-bg-moon.jpg");*/
+    background: url('../img/hero-bg-moon.jpg');
   background-position: 100% 100%;
 }
 .night-mode .content-header .container.fade-scale {
@@ -86,14 +90,16 @@
   }
   .content-header.tags-header {
     padding: 0;
-    background: url("http://dearzoe.coding.me/blogImg/images/hero-bg-phone.png") no-repeat;
+    /*background: url("http://dearzoe.coding.me/blogImg/images/hero-bg-phone.png") no-repeat;*/
+      background: url('../img/hero-bg-phone.png') no-repeat;
   }
   .content-header.tags-header .tabs-bar {
     z-index: 10;
     margin: -44px 0 0 0;
   }
   .night-mode .content-header {
-    background: url("http://dearzoe.coding.me/blogImg/images/hero-bg-moon-phone.jpg") no-repeat;
+    /*background: url("http://dearzoe.coding.me/blogImg/images/hero-bg-moon-phone.jpg") no-repeat;*/
+      background: url('../img/hero-bg-moon-phone.jpg') no-repeat;
     background-position: 100% 100%;
   }
   .night-mode .content-header .container.fade-scale {
@@ -101,7 +107,8 @@
   }
   .night-mode .content-header.tags-header {
     padding: 0;
-    background: url("http://dearzoe.coding.me/blogImg/images/hero-bg-moon-phone.jpg") no-repeat;
+    /*background: url("http://dearzoe.coding.me/blogImg/images/hero-bg-moon-phone.jpg") no-repeat;*/
+      background: url('../img/hero-bg-moon-phone.jpg') no-repeat;
   }
   .night-mode .content-header.tags-header .tabs-bar {
     z-index: 10;

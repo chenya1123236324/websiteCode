@@ -1,13 +1,13 @@
 global:
-  search_input_hint: "検索"
+  search_input_hint: "输入感兴趣的关键字"
 
 post:
-  continue_reading: "続きを読む…"
-  last_updated: "最終更新："
+  continue_reading: "阅读全文"
+  last_updated: "最后更新时间："
 
 footer:
-  license: 'このブログの内容物は<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja">クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際ライセンスの下に提供されています</a>'
+  license: '网站内容遵循 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">知识共享 署名 - 非商业性 - 相同方式共享 4.0 国际协议</a>'
 
 tag:
-  all: "全て"
-  tags: "タグ"
+  all: "全部"
+  tags: "标签"
