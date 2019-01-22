@@ -10,6 +10,9 @@
         <span>
             将阅读<span style="color: orange;"> <%= min2read(post.content) * 2.5 %> </span> 分钟
         </span>
+        <% if (post.top){ %>
+        <font color=7D26CD>置顶</font>
+        <% } %>
     </div>
 
     <%- partial('post/title', { hasLink: true }) %>
