@@ -16,23 +16,23 @@ menu:
     url: /archives
   tags:
     text: 标签
-    url: /tags
+    url: /tags/前端知识体系
   th-list:
     text: 分类
-    url: /categories
-  npms:
-      text: NPM
-      url: /npms
-  weibo:
-    text: 微博
-    url: https://www.weibo.com/u/5934126720
+    url: /categories/学习笔记
+  file-code-o:
+      text: 作品
+      url: /works/
+  address-card:
+      text: 关于我
+      url: /about/
+  edit:
+    text: 博客
+    url: http://www.cnblogs.com/chenyablog
     target: _blank
   github:
-      url: https://github.com/dearzoe
+      url: https://github.com/chenya1123236324
       target: _blank
-  link:
-    text: 测试
-    url: /custom
 
 # 你的头像url
 avatar: /img/gruffalo.jpg
@@ -65,16 +65,16 @@ mathjax: true
 archive_yearly: true
 
 # 是否显示文章最后更新时间
-show_last_updated: true
+show_last_updated: false
 
 # 是否开启分享
 share: true
 
 # 是否开启打赏，关闭 reward: false
 reward:
-  title: thx
-  wechat: /img/avatar.jpg     #微信，关闭设为 false
-  alipay: /img/avatar.jpg     #支付宝，关闭设为 false
+  title: 请我吃辣条~~
+  wechat: /img/wechat.jpg     #微信，关闭设为 false
+  alipay: /img/alipay.jpg     #支付宝，关闭设为 false
 
 # 是否开启搜索
 search: true
