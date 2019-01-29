@@ -5,11 +5,11 @@ date: 2019-01-26 15:50:42
 ---
  ```javascript
 var card = {
-    Name: 'YaYA',
+    Name: 'YAYA',
     Description: '前端攻城狮，对web前端情有独钟,执行力很强！',
     Age: '90后',
     Hometown: '江苏苏州',
-    NowLocation: '上海闵行区',
+    NowLocation: '上海市闵行区',
     QQ: '1123236324',
     Email: '1123236324@qq.com',
     LoveWebsite：[
@@ -23,7 +23,7 @@ var card = {
         },
         {
             name:'博客园',
-            url:https://www.cnblogs.com/
+            url:'https://www.cnblogs.com/'
         },
         {
             name:'掘金',
