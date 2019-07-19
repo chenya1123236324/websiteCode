@@ -5,17 +5,23 @@ date: 2019-01-26 15:50:42
 ---
  ```javascript
 var card = {
-    Name: 'YAYA',
+    Name: 'ChenYA',
+    Alias: 'YAYA',
     Description: '前端攻城狮，对web前端情有独钟,执行力很强！',
     Age: '90后',
     Hometown: '江苏苏州',
     NowLocation: '上海市闵行区',
     QQ: '1123236324',
     Email: '1123236324@qq.com',
-    LoveWebsite：[
+    TechnologyStack:['Vue.js','Node.js','Koa.js','Webpack','Element UI ','ES6','HTML5','CSS3','JavaScript ','Git','微信小程序'，'...']
+    LoveWebsite: [
         {
             name:'segmentfault',
             url:'https://segmentfault.com'
+        },
+        {
+            name:'Where Developers Learn, Share, & Build Careers',
+            url:'https://stackoverflow.com/'
         },
         {
             name:'知乎',
@@ -28,7 +34,7 @@ var card = {
         {
             name:'掘金',
             url:'https://juejin.im/'
-        }
+        },
     ],
     Timeline: [
         {
@@ -37,12 +43,12 @@ var card = {
             job: 'Web前端开发工程师'
         },
         {
-            time: '2016.03~ 2017.04',
-            company: '浩仲六弈(上海)网络科技有限公司',
+            time: '2016.09~ 2017.04',
+            company: '赞同科技股份有限公司',
             job: 'Web前端开发工程师'
         },
          {
-            time: '2015.6 ~ 2016.03',
+            time: '2015.06 ~ 2016.09',
             company: '同程网络科技股份有限公司',
             job: 'Web前端开发工程师'
         }
