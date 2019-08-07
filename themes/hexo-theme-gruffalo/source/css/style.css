@@ -3139,7 +3139,7 @@ a[title="站长统计"] {
 }
 .post-content pre code {
   background: none;
-  color: #4d4d4c;
+  color: #fff;
 }
 .post-content .highlight {
   position: relative;
@@ -3227,7 +3227,7 @@ a[title="站长统计"] {
   text-decoration: underline;
 }
 pre .comment {
-  color: #8e908c;
+  color: #999!important;
 }
 pre .tag {
   color: #8e908c;
@@ -3270,7 +3270,7 @@ pre .inheritance,
 pre .header,
 pre .ruby .symbol,
 pre .xml .cdata {
-  color: #4271ae;
+  color: #7ec699!important;
 }
 pre .selector-tag,
 pre .css .hexcolor,
@@ -3285,13 +3285,46 @@ pre .ruby .title .keyword,
 pre .perl .sub,
 pre .javascript .title,
 pre .coffeescript .title {
-  color: #4271ae;
+  color: #f08d49!important;
 }
 pre .selector-id,
 pre .selector-class,
 pre .keyword,
 pre .javascript .function {
-  color: #8959a8;
+  color: #cc99cd!important;
+}
+
+/* 重写高亮 */
+/* = */
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+    color: #67cdcc!important
+}
+/* {} */
+.token.punctuation {
+  color:  #ccc!important
+}
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol {
+    color: #f08d49!important
+}
+.token.class-name {
+  color: #f8c555!important
+}
+/* []、;、() */
+.token.punctuation{
+  color: #FFF68F!important
+}
+/* 字体大小 */
+.line-numbers.language-js{
+  font-size: 16px!important
 }
 @media screen and (max-width: 760px) {
   .post-content .highlight {
