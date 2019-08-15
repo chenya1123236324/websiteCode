@@ -4194,6 +4194,10 @@ pre .javascript .function {
 .post-content pre {
   background: #f5f5f5;
 }
+
+.post-content pre {
+  background: #4d4d4c;
+}
 .post-content p code,
 .post-content li code {
   color: #f45;
