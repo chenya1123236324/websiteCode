@@ -5,6 +5,7 @@
 
 
 > 个人主页
+
 ![image](https://raw.githubusercontent.com/chenya1123236324/picture-management/master/2019/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E6%95%B4%E7%90%86/%E5%9B%BE%E7%89%87/site.png)
 
 > 目录
@@ -45,7 +46,8 @@ var card = {
     NowLocation: '上海市闵行区',
     QQ: '1123236324',
     Email: '1123236324@qq.com',
-    TechnologyStack:['Vue.js','Node.js','Koa.js','Webpack','Element UI ','ES6','HTML5','CSS3','JavaScript ','Git','微信小程序'，'...']
+    TechnologyStack:['Vue.js','Node.js','Koa.js','Webpack','Element UI ',
+    'ES6','HTML5','CSS3','JavaScript ','Git','微信小程序'，'...']
     LoveWebsite: [
         {
             name:'segmentfault',
